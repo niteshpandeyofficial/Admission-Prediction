@@ -69,8 +69,8 @@ That it's all about deployment.
 
 ## Screenshots
 
-![Alt text](https://github.com/niteshpandeyofficial/Admission-Prediction/blob/6a7e18de1c3d4d5f0685567ca322fbcfe5f60ad1/Main_Page.PNG?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Input Page](https://github.com/niteshpandeyofficial/Admission-Prediction/blob/6a7e18de1c3d4d5f0685567ca322fbcfe5f60ad1/Main_Page.PNG?raw=true "Optional Title")
+![Output Page](https://github.com/niteshpandeyofficial/Admission-Prediction/blob/f47bd6df1326e126d44eb4995dc0f1d6315f6a9a/predicted_page.PNG?raw=true "Optional Title")
 ## 🔗 Deployed Links
 [Click Here](https://dashboard.heroku.com/apps/admission-prediction-demo)
 
