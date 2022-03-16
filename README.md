@@ -45,7 +45,7 @@ Deployment steps through local system to Heroku server
 $ git init
 $ heroku git:remote -a <name of app>
 $ git add .
-$ git commit -am "make it better"
+$ git commit -m "enter msg"
 $ git push heroku master
 ```
 
