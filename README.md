@@ -74,5 +74,5 @@ That it's all about deployment.
 #### Output Page
 ![Output Page](https://github.com/niteshpandeyofficial/Admission-Prediction/blob/f47bd6df1326e126d44eb4995dc0f1d6315f6a9a/predicted_page.PNG?raw=true "Optional Title")
 ## 🔗 Deployed Links
-[Click Here](https://admission-prediction-demo.herokuapp.com/)
+[Click Here](https://admission-prediction-flask.herokuapp.com/)
 
